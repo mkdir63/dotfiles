@@ -67,20 +67,6 @@
                 "source": "Windows.Terminal.Azure"
             },
             {
-                "commandline": "%WINDIR%\\System32\\WindowsPowerShell\\v1.0\\powershell.exe -ExecutionPolicy ByPass -NoExit -Command \"& 'C:\\Users\\bjx765\\AppData\\Local\\miniconda3\\shell\\condabin\\conda-hook.ps1' ; conda activate 'C:\\Users\\bjx765\\AppData\\Local\\miniconda3' \"",
-                "guid": "{baef6041-a2f3-5472-b295-a7d7fb0ed62f}",
-                "icon": "C:\\Users\\bjx765\\AppData\\Local\\miniconda3\\Menu\\anaconda_powershell_prompt.ico",
-                "name": "Anaconda PowerShell Prompt (miniconda3)",
-                "startingDirectory": "C:\\Users\\bjx765"
-            },
-            {
-                "commandline": "%WINDIR%\\System32\\cmd.exe \"/K\" C:\\Users\\bjx765\\AppData\\Local\\miniconda3\\Scripts\\activate.bat C:\\Users\\bjx765\\AppData\\Local\\miniconda3",
-                "guid": "{35427e1d-45ad-517a-8692-8d5e4093f90f}",
-                "icon": "C:\\Users\\bjx765\\AppData\\Local\\miniconda3\\Menu\\anaconda_prompt.ico",
-                "name": "Anaconda Prompt (miniconda3)",
-                "startingDirectory": "C:\\Users\\bjx765"
-            },
-            {
                 "guid": "{574e775e-4f2a-5b96-ac1e-a2962a402336}",
                 "hidden": false,
                 "name": "PowerShell",
